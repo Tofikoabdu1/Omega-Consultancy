@@ -14,9 +14,9 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Map of bank short name -> app package id (YOU MUST REPLACE the app IDs below with the real ones)
 APPS = {
-    "CBE": "com.combanketh.mobilebanking",         # <-- replace with actual Play Store package id
-    "BOA": "com.boa.boaMobileBanking",     # <-- replace
-    "Dashen": "com.dashen.dashensuperapp"  # <-- replace
+    "CBE": "com.combanketh.mobilebanking",        
+    "BOA": "com.boa.boaMobileBanking",   
+    "Dashen": "com.dashen.dashensuperapp"  
 }
 
 TARGET_PER_BANK = 500  # aim a bit higher
