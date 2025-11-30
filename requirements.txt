@@ -1,0 +1,14 @@
+pandas>=1.5
+numpy
+google-play-scraper>=1.2.7
+transformers>=4.30
+torch        # or torch-cpu if you want explicit CPU-only wheel
+spacy>=3.5
+scikit-learn
+vaderSentiment
+psycopg2-binary
+matplotlib
+seaborn
+tqdm
+python-dotenv
+jupyterlab
